@@ -1,0 +1,15 @@
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\task052.csproj.AssemblyReference.cache
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\task052.GeneratedMSBuildEditorConfig.editorconfig
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\task052.AssemblyInfoInputs.cache
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\task052.AssemblyInfo.cs
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\task052.csproj.CoreCompileInputs.cache
+C:\directory - D\IT\VSC\DZ_C_7\task052\bin\Debug\net6.0\task052.exe
+C:\directory - D\IT\VSC\DZ_C_7\task052\bin\Debug\net6.0\task052.deps.json
+C:\directory - D\IT\VSC\DZ_C_7\task052\bin\Debug\net6.0\task052.runtimeconfig.json
+C:\directory - D\IT\VSC\DZ_C_7\task052\bin\Debug\net6.0\task052.dll
+C:\directory - D\IT\VSC\DZ_C_7\task052\bin\Debug\net6.0\task052.pdb
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\task052.dll
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\refint\task052.dll
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\task052.pdb
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\task052.genruntimeconfig.cache
+C:\directory - D\IT\VSC\DZ_C_7\task052\obj\Debug\net6.0\ref\task052.dll
